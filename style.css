@@ -1,0 +1,14 @@
+* {
+    border: 0;
+    margin: 0;
+    background-color: darkcyan;
+}
+
+h1 {
+    text-align: center;
+    color: blanchedalmond;
+}
+
+a {
+    text-decoration: none;
+}
